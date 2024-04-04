@@ -1,0 +1,14 @@
+P1-3 Spark vs Hadoop, Spark核心模块
+3/31
+Hadoop: 作业之间的迭代型是磁盘之间的交互
+Spark：内存级的迭代 （图形处理，挖掘计算）
+
+计算场景当中；看内存的大小
+
+P4 快速上手
+4/1
+配置了一下scala，需要scala插件
+
+P7 Wordcount案例
+主要是scala是不是得要学一下
+
